@@ -103,12 +103,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0069-sqrtx) |
+| [0222-count-complete-tree-nodes](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0222-count-complete-tree-nodes) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0222-count-complete-tree-nodes) |
 ## Simulation
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0222-count-complete-tree-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
