@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0257-binary-tree-paths) |
 ## Trie
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -225,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0232-implement-queue-using-stacks) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
