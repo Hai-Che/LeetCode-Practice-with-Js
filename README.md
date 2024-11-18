@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0415-add-strings) |
 ## String
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0415-add-strings) |
 ## Trie
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0415-add-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
