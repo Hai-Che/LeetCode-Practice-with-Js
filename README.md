@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0485-max-consecutive-ones) |
+| [0500-keyboard-row](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0500-keyboard-row) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0389-find-the-difference) |
+| [0500-keyboard-row](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0500-keyboard-row) |
 ## Math
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0459-repeated-substring-pattern) |
+| [0500-keyboard-row](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0500-keyboard-row) |
 ## Trie
 |  |
 | ------- |
