@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0506-relative-ranks) |
 ## Hash Table
 |  |
 | ------- |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0506-relative-ranks) |
 ## Tree
 |  |
 | ------- |
@@ -340,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-more-than-5-students](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0596-classes-more-than-5-students) |
 | [0610-triangle-judgement](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0619-biggest-single-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
