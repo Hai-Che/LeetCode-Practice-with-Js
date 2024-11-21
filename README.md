@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0500-keyboard-row) |
+| [0520-detect-capital](https://github.com/Hai-Che/LeetCode-Practice-with-Js/tree/master/0520-detect-capital) |
 ## Trie
 |  |
 | ------- |
